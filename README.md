@@ -1,3 +1,3 @@
-# remote_local
+# REMOTE
 
 Merge & Conflits tests.
